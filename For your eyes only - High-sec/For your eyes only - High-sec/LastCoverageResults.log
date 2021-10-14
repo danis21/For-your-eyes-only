@@ -1,0 +1,21 @@
+[2020-04-16 12:10:34] [info] Start Program:
+Path:"D:\\Faculta\\OoP\\For your eyes only - High-sec\\Debug\\For your eyes only - High-sec.exe"
+Arguments:
+Working directory: "D:\\Faculta\\OoP\\For your eyes only - High-sec\\For your eyes only - High-sec\\"
+Modules: Selected: D:\Faculta\OoP\For your eyes only - High-sec\Debug\For your eyes only - High-sec.exe Excluded: 
+Sources: Selected: D:\Faculta\OoP\For your eyes only - High-sec\For your eyes only - High-sec Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\mures\AppData\Local\Temp\40h1k2qg.oyr 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-04-16 12:10:34] [info] Module: D:\Faculta\OoP\For your eyes only - High-sec\Debug\For your eyes only - High-sec.exe is selected because it matches selected pattern: D:\Faculta\OoP\For your eyes only - High-sec\Debug\For your eyes only - High-sec.exe
+[2020-04-16 12:10:34] [info] ----------------------------------------------------
+[2020-04-16 12:10:34] [info] Coverage binary generated in file: C:\Users\mures\AppData\Local\Temp\40h1k2qg.oyr
+[2020-04-16 12:10:34] [info] ----------------------------------------------------
